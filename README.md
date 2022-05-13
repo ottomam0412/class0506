@@ -4,7 +4,7 @@
 
 ## 標題二
 
-程式碼也行喔
+程式碼也行喔!
 
 ```cpp
 #include<iostream>
